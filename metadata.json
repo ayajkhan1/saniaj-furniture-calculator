@@ -1,0 +1,6 @@
+{
+  "name": "Saniaj Furniture Calculator",
+  "description": "Professional furniture calculator, estimation, quotation, inventory, and material database app for carpenters, interior designers, and plywood contractors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
